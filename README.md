@@ -1,2 +1,3 @@
 # Android-Fundamentals-CountApp
-![](Images/Hello%20Toast.png)
+
+<img src="Images/Hello%20Toast.png" height=500>
