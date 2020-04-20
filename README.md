@@ -16,3 +16,4 @@ A simple UI based android application.Layout consits of TextViews and basic Butt
 ## What Next?
  * The above application is designed based on **Constraint Layout**
  * Check out the link here --> for [Linear Layout](https://github.com/simuchand/Android-Fundamentals-CountApp-LinearLayout.git)
+ * Check out the link here --> for [Relative Layout](https://github.com/simuchand/Android-Fundamentals-CountApp-RelativeLayout.git)
